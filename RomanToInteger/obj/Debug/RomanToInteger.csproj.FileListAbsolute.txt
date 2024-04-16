@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\RomanToInteger\bin\Debug\RomanToInteger.exe.config
+D:\Programming\Visual Studio\LeetCode\RomanToInteger\bin\Debug\RomanToInteger.exe
+D:\Programming\Visual Studio\LeetCode\RomanToInteger\bin\Debug\RomanToInteger.pdb
+D:\Programming\Visual Studio\LeetCode\RomanToInteger\obj\Debug\RomanToInteger.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\RomanToInteger\obj\Debug\RomanToInteger.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\RomanToInteger\obj\Debug\RomanToInteger.exe
+D:\Programming\Visual Studio\LeetCode\RomanToInteger\obj\Debug\RomanToInteger.pdb
