@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\RemoveElement\bin\Debug\RemoveElement.exe.config
+D:\Programming\Visual Studio\LeetCode\RemoveElement\bin\Debug\RemoveElement.exe
+D:\Programming\Visual Studio\LeetCode\RemoveElement\bin\Debug\RemoveElement.pdb
+D:\Programming\Visual Studio\LeetCode\RemoveElement\obj\Debug\RemoveElement.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\RemoveElement\obj\Debug\RemoveElement.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\RemoveElement\obj\Debug\RemoveElement.exe
+D:\Programming\Visual Studio\LeetCode\RemoveElement\obj\Debug\RemoveElement.pdb
