@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\SingleNumber\bin\Debug\SingleNumber.exe.config
+D:\Programming\Visual Studio\LeetCode\SingleNumber\bin\Debug\SingleNumber.exe
+D:\Programming\Visual Studio\LeetCode\SingleNumber\bin\Debug\SingleNumber.pdb
+D:\Programming\Visual Studio\LeetCode\SingleNumber\obj\Debug\SingleNumber.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\SingleNumber\obj\Debug\SingleNumber.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\SingleNumber\obj\Debug\SingleNumber.exe
+D:\Programming\Visual Studio\LeetCode\SingleNumber\obj\Debug\SingleNumber.pdb

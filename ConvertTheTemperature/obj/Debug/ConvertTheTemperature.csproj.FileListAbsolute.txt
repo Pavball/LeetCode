@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\ConvertTheTemperature\bin\Debug\ConvertTheTemperature.exe.config
+D:\Programming\Visual Studio\LeetCode\ConvertTheTemperature\bin\Debug\ConvertTheTemperature.exe
+D:\Programming\Visual Studio\LeetCode\ConvertTheTemperature\bin\Debug\ConvertTheTemperature.pdb
+D:\Programming\Visual Studio\LeetCode\ConvertTheTemperature\obj\Debug\ConvertTheTemperature.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\ConvertTheTemperature\obj\Debug\ConvertTheTemperature.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\ConvertTheTemperature\obj\Debug\ConvertTheTemperature.exe
+D:\Programming\Visual Studio\LeetCode\ConvertTheTemperature\obj\Debug\ConvertTheTemperature.pdb
