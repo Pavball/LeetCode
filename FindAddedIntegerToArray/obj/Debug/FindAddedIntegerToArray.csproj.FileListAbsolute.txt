@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\FindAddedIntegerToArray\bin\Debug\FindAddedIntegerToArray.exe.config
+D:\Programming\Visual Studio\LeetCode\FindAddedIntegerToArray\bin\Debug\FindAddedIntegerToArray.exe
+D:\Programming\Visual Studio\LeetCode\FindAddedIntegerToArray\bin\Debug\FindAddedIntegerToArray.pdb
+D:\Programming\Visual Studio\LeetCode\FindAddedIntegerToArray\obj\Debug\FindAddedIntegerToArray.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\FindAddedIntegerToArray\obj\Debug\FindAddedIntegerToArray.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\FindAddedIntegerToArray\obj\Debug\FindAddedIntegerToArray.exe
+D:\Programming\Visual Studio\LeetCode\FindAddedIntegerToArray\obj\Debug\FindAddedIntegerToArray.pdb

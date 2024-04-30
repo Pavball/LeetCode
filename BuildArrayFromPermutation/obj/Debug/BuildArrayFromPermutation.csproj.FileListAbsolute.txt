@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\BuildArrayFromPermutation\bin\Debug\BuildArrayFromPermutation.exe.config
+D:\Programming\Visual Studio\LeetCode\BuildArrayFromPermutation\bin\Debug\BuildArrayFromPermutation.exe
+D:\Programming\Visual Studio\LeetCode\BuildArrayFromPermutation\bin\Debug\BuildArrayFromPermutation.pdb
+D:\Programming\Visual Studio\LeetCode\BuildArrayFromPermutation\obj\Debug\BuildArrayFromPermutation.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\BuildArrayFromPermutation\obj\Debug\BuildArrayFromPermutation.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\BuildArrayFromPermutation\obj\Debug\BuildArrayFromPermutation.exe
+D:\Programming\Visual Studio\LeetCode\BuildArrayFromPermutation\obj\Debug\BuildArrayFromPermutation.pdb

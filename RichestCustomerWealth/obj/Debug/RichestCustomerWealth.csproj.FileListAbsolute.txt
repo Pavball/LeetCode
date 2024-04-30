@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\RichestCustomerWealth\bin\Debug\RichestCustomerWealth.exe.config
+D:\Programming\Visual Studio\LeetCode\RichestCustomerWealth\bin\Debug\RichestCustomerWealth.exe
+D:\Programming\Visual Studio\LeetCode\RichestCustomerWealth\bin\Debug\RichestCustomerWealth.pdb
+D:\Programming\Visual Studio\LeetCode\RichestCustomerWealth\obj\Debug\RichestCustomerWealth.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\RichestCustomerWealth\obj\Debug\RichestCustomerWealth.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\RichestCustomerWealth\obj\Debug\RichestCustomerWealth.exe
+D:\Programming\Visual Studio\LeetCode\RichestCustomerWealth\obj\Debug\RichestCustomerWealth.pdb

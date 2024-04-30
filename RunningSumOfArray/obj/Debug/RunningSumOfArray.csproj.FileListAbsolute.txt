@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\RunningSumOfArray\bin\Debug\RunningSumOfArray.exe.config
+D:\Programming\Visual Studio\LeetCode\RunningSumOfArray\bin\Debug\RunningSumOfArray.exe
+D:\Programming\Visual Studio\LeetCode\RunningSumOfArray\bin\Debug\RunningSumOfArray.pdb
+D:\Programming\Visual Studio\LeetCode\RunningSumOfArray\obj\Debug\RunningSumOfArray.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\RunningSumOfArray\obj\Debug\RunningSumOfArray.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\RunningSumOfArray\obj\Debug\RunningSumOfArray.exe
+D:\Programming\Visual Studio\LeetCode\RunningSumOfArray\obj\Debug\RunningSumOfArray.pdb

@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\FindTheHighestAltitude\bin\Debug\FindTheHighestAltitude.exe.config
+D:\Programming\Visual Studio\LeetCode\FindTheHighestAltitude\bin\Debug\FindTheHighestAltitude.exe
+D:\Programming\Visual Studio\LeetCode\FindTheHighestAltitude\bin\Debug\FindTheHighestAltitude.pdb
+D:\Programming\Visual Studio\LeetCode\FindTheHighestAltitude\obj\Debug\FindTheHighestAltitude.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\FindTheHighestAltitude\obj\Debug\FindTheHighestAltitude.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\FindTheHighestAltitude\obj\Debug\FindTheHighestAltitude.exe
+D:\Programming\Visual Studio\LeetCode\FindTheHighestAltitude\obj\Debug\FindTheHighestAltitude.pdb
