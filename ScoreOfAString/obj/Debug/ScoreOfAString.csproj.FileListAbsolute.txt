@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\ScoreOfAString\bin\Debug\ScoreOfAString.exe.config
+D:\Programming\Visual Studio\LeetCode\ScoreOfAString\bin\Debug\ScoreOfAString.exe
+D:\Programming\Visual Studio\LeetCode\ScoreOfAString\bin\Debug\ScoreOfAString.pdb
+D:\Programming\Visual Studio\LeetCode\ScoreOfAString\obj\Debug\ScoreOfAString.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\ScoreOfAString\obj\Debug\ScoreOfAString.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\ScoreOfAString\obj\Debug\ScoreOfAString.exe
+D:\Programming\Visual Studio\LeetCode\ScoreOfAString\obj\Debug\ScoreOfAString.pdb

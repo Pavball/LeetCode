@@ -1,0 +1,7 @@
+D:\Programming\Visual Studio\LeetCode\CountItemsMatchingRule\bin\Debug\CountItemsMatchingRule.exe.config
+D:\Programming\Visual Studio\LeetCode\CountItemsMatchingRule\bin\Debug\CountItemsMatchingRule.exe
+D:\Programming\Visual Studio\LeetCode\CountItemsMatchingRule\bin\Debug\CountItemsMatchingRule.pdb
+D:\Programming\Visual Studio\LeetCode\CountItemsMatchingRule\obj\Debug\CountItemsMatchingRule.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\LeetCode\CountItemsMatchingRule\obj\Debug\CountItemsMatchingRule.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\LeetCode\CountItemsMatchingRule\obj\Debug\CountItemsMatchingRule.exe
+D:\Programming\Visual Studio\LeetCode\CountItemsMatchingRule\obj\Debug\CountItemsMatchingRule.pdb
